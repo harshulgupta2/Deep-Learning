@@ -1,16 +1,16 @@
 # Deep Learning
 
-**_This repository contains the implementation of MNIST digit classifier using PyTorch_**
+**This repository contains the implementation of MNIST digit classifier using PyTorch**
 
-**MNIST_using_Numpy.ipynb** *Implementation of backpropagation algorithm for training MNIST digit classifier using Numpy*
+**FeedForward_Numpy.ipynb** Implementation of backpropagation algorithm for training MNIST digit classifier using Numpy
 
-**MNIST_Pytorch.ipynb** *Feed forward neural network implementation for an MNIST digit classifier*
+**FeedForward_Pytorch.ipynb** Feed forward neural network implementation for an MNIST digit classifier
 
 
-**CNN_Pytorch.ipynb**  *Convolution Neural Network implementation for an MNIST digit classifier*
+**CNN_PyTorch.ipynb**  Convolution Neural Network implementation for an MNIST digit classifier
                      
 
-**GAN_Pytorch.ipynb** *Image generation using Generative Adversarial Networks; trained on MNIST dataset*
+**GAN_Pytorch.ipynb** Image generation using Generative Adversarial Networks; trained on MNIST dataset
 
 
 
