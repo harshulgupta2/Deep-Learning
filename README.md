@@ -2,7 +2,6 @@
 
 **This repository contains the implementation of MNIST digit classifier using PyTorch**
 
-**FeedForward_Numpy.ipynb** Implementation of backpropagation algorithm for training MNIST digit classifier using Numpy
 
 **FeedForward_Pytorch.ipynb** Feed forward neural network implementation for an MNIST digit classifier
 
